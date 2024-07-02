@@ -1,0 +1,1 @@
+# go-docker-image-optimized
